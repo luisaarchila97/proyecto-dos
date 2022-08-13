@@ -1,0 +1,31 @@
+body{
+    background: url(../imagenes/imagen\ 2.jpg); /*en esta pestaña para colocar el url coloco .//*/ 
+    background-size: cover; /*tamaño del fondo*/
+    background-attachment: fixed; /*fondo fijo*/
+   } 
+   .letra1{
+   color: rgb(3, 40, 51); /*color de letra*/
+   font-size: 30px; /*tamaño de letra*/
+   font-family:'Akaya Kanadaka', cursiva;/*fuente de letra*/
+    }
+    .letra2{
+       font-size: 18px;
+       font-family:'Akaya Kanadaka', cursiva;
+        }
+   
+        .letra3{
+           color: rgb(23, 53, 99); /*color de letra*/
+           font-size: 40px; /*tamaño de letra*/
+           font-family:'Akaya Kanadaka', cursiva;/*fuente de letra*/
+            }
+   
+            .barra{
+               background: rgb(240, 232, 237) !important;
+               color: rgb(2, 2, 2) !important; /*color de letra*/
+               font-size: 20px !important; /*tamaño de letra*/
+               font-family:'Akaya Kanadaka', cursiva !important;/*fuente de letra*/
+                }
+
+                .barra > li > a {
+                  color: rgb(2, 2, 2);
+               }  

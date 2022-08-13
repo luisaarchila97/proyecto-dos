@@ -1,0 +1,30 @@
+body{
+    background: url(../imagenes/imagen2.jpg); 
+    background-size: cover; 
+    background-attachment: fixed; 
+   } 
+
+   .letra1{
+   color: rgb(63, 13, 59);
+   font-size: 30px; 
+   font-family:'comic sans', cursiva;
+    }
+
+    .letra2{
+       font-size: 18px;
+       font-family:'Baskerville', cursiva;
+        }
+   
+        .letra3{
+           color: rgb(23, 53, 99); 
+           font-size: 40px; 
+           font-family:'Akaya Kanadaka', cursiva; 
+            }
+   
+            .barra{
+               background: rgb(238, 233, 220) !important;
+               color: rgb(23, 12, 73) !important; 
+               font-size: 20px !important; 
+            }
+
+        
